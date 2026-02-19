@@ -135,11 +135,11 @@ const content = {
       Destaque: (
         <span className="destaque relative italic font-light">FIES</span>
       ),
-      SecondPart: <span>e entre na faculdade</span>,
+      SecondPart: <span>e obtenha seu curso superior</span>,
       subtitle: (
         <p>
           Ajudamos você a conquistar seu financiamento estudantil sem
-          complicação.
+          complicações.
         </p>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
@@ -244,9 +244,9 @@ const content = {
 
     features: {
       miniTag: <>Nossos Serviços</>,
-      FirstPart: <span>Resolva seu FIES com</span>,
+      FirstPart: <span>Contrate seu FIES com </span>,
       Destaque: <span className="italic font-light">segurança</span>,
-      SecondPart: <span>e sem dor de cabeça</span>,
+      SecondPart: <span> e sem dor de cabeça</span>,
       subtitle: (
         <>Soluções jurídicas para regularizar, quitar ou reduzir seu FIES</>
       ),
