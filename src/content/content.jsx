@@ -131,15 +131,15 @@ const content = {
         </>
       ),
       miniTag: <>ADVOGADA E ACADÊMICA DE MEDICINA</>,
-      FirstPart: <span>Resolva seu</span>,
+      FirstPart: <span>Garanta seu</span>,
       Destaque: (
         <span className="destaque relative italic font-light">FIES</span>
       ),
-      SecondPart: <span>antes que vire dor de cabeça</span>,
+      SecondPart: <span>e entre na faculdade</span>,
       subtitle: (
         <p>
-          Evite multas, atrasos e negativação do CPF. A gente regulariza seu
-          financiamento rápido e sem burocracia.
+          Ajudamos você a conquistar seu financiamento estudantil sem
+          complicação.
         </p>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile

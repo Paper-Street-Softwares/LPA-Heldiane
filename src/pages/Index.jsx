@@ -65,10 +65,6 @@ export default function Index() {
           </AlternatingSection> */}
 
           <AlternatingSection index={1} colorMode={colorMode}>
-            <Important colorMode={colorMode} />
-          </AlternatingSection>
-
-          <AlternatingSection index={2} colorMode={colorMode}>
             <Suspense>
               <FeaturesNovaTemplate
                 colorMode={colorMode}
@@ -77,6 +73,10 @@ export default function Index() {
                 modal={false}
               />
             </Suspense>
+          </AlternatingSection>
+
+          <AlternatingSection index={2} colorMode={colorMode}>
+            <Important colorMode={colorMode} />
           </AlternatingSection>
           {/* <AlternatingSection index={4} colorMode={colorMode}>
             <Suspense>
