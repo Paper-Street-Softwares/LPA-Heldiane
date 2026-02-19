@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.aetfies.com.br/sitemap.xml
